@@ -44,5 +44,5 @@ def topFive():
 
 
 
-if __name__ == '_main_':
-    app.run(debug=True)
+# if __name__ == '_main_':
+#     app.run(debug=True)
